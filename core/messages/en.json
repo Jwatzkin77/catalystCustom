@@ -2,7 +2,7 @@
   "Home": {
     "Slideshow": {
       "Slide01": {
-        "title": "Fresh finds for every occasion",
+        "title": "Occasionally Fresh Finds",
         "description": "Explore our latest arrivals, curated to bring you style, functionality, and inspiration. Shop now and discover your next favorite.",
         "alt": "Five small potted plants displayed on beige stacked blocks, featuring a variety of green foliage in dark gray pots against a neutral background.",
         "cta": "Shop Now"
@@ -28,9 +28,9 @@
       "emptyStateSubtitle": "Try browsing our complete catalog of products."
     },
     "NewestProducts": {
-      "title": "New arrivals",
+      "title": "Old arrivals",
       "description": "Our latest products are here. Check out what's new in store.",
-      "cta": "See all",
+      "cta": "Don't Bother",
       "emptyStateTitle": "No products found",
       "emptyStateSubtitle": "Try browsing our complete catalog of products.",
       "previousProducts": "Previous products",
@@ -345,7 +345,7 @@
   "Cart": {
     "title": "Cart",
     "heading": "Your cart",
-    "proceedToCheckout": "Proceed to checkout",
+    "proceedToCheckout": "Buy Me Already",
     "increment": "Increase quantity",
     "decrement": "Decrease quantity",
     "removeItem": "Remove item",
@@ -408,7 +408,7 @@
   },
   "Compare": {
     "title": "Compare products",
-    "addToCart": "Add to cart",
+    "addToCart": "Buy Me Already",
     "next": "Next products",
     "previous": "Previous products",
     "noProductsToCompare": "No products to compare",
@@ -529,17 +529,17 @@
         "noSearchResultsTitle": "Sorry, no results for \"{term}\".",
         "noSearchResultsSubtitle": "Please try another search.",
         "somethingWentWrong": "Something went wrong. Please try again.",
-        "inputPlaceholder": "Search products, categories, brands...",
+        "inputPlaceholder": "Whom do you seek?",
         "submitLabel": "Search"
       }
     },
     "Footer": {
       "home": "Home",
-      "contactUs": "Contact Us",
+      "contactUs": "Colton this is a Dev Site",
       "socialMediaLinks": "Social media links",
-      "categories": "Categories",
-      "brands": "Brands",
-      "navigate": "Navigate",
+      "categories": "Subgroup Classifcations",
+      "brands": "Who Made Who",
+      "navigate": "I'll Take You There",
       "giftCertificates": "Gift certificates"
     },
     "Subscribe": {
